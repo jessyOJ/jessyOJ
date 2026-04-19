@@ -4,9 +4,9 @@ I build **AI-powered automation systems for healthcare organizations** — turni
 
 ## What I Do
 
-Healthcare admin is drowning in repetitive, high-stakes tasks: patient letters, portal message triage, provider escalations, phone call transcripts, and compliance documentation. I build systems that handle all of it — accurately, consistently, and at scale.
+Healthcare admin is drowning in repetitive, high-stakes tasks: patient letters, portal message triage, provider escalations, phone call transcripts, and compliance documentation. I build systems that handle all of it accurately, consistently, and at scale.
 
-My work sits at the intersection of **clinical operations** and **modern AI infrastructure**. I don't just wire APIs together — I design end-to-end architectures that are HIPAA-aware, white-label ready, and built to run without babysitting.
+My work sits at the intersection of **clinical operations** and **modern AI infrastructure**. I don't just wire APIs together. I design end-to-end architectures that are HIPAA-aware, white-label ready, and built to run without babysitting.
 
 ## What I Stand For
 
@@ -20,7 +20,7 @@ My work sits at the intersection of **clinical operations** and **modern AI infr
 |---|---|
 | **Orchestration** | n8n (self-hosted) |
 | **AI / LLMs** | Claude AI (Anthropic) · OpenAI GPT-4 |
-| **EHR Integration** | DrChrono API · OAuth2 |
+| **EHR Integration** | 
 | **Scripting** | Google Apps Script · Node.js · JavaScript |
 | **Data & Docs** | Google Sheets API · Google Drive API · Google Chat API |
 | **Infra** | REST APIs · Webhooks · VPS (Linux) · Git |
@@ -33,6 +33,6 @@ My work sits at the intersection of **clinical operations** and **modern AI infr
 
 ---
 
-> *"The best healthcare technology is the kind patients never see — because it just works."*
+> *"The best healthcare technology is the kind patients never see, because it just works."*
 
-📫 Reach me: **ojukwujess23@gmail.com**
+
