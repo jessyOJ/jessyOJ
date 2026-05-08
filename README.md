@@ -29,7 +29,7 @@ My work sits at the intersection of **clinical operations** and **modern AI infr
 ## Featured Projects
 
 - **[AI CareStream](https://github.com/jessyOJ/ai-carestream-automatic-letter-generation)** — WAT framework for healthcare admin triage: letter generation, patient message handling, provider escalations, comm logs. n8n + Claude AI + OpenAI + Google Workspace.
-- **[Automated Letter Generator — DrChrono API](https://github.com/jessyOJ/Automated-Letter-Generator-DrChrono-API)** — Google Apps Script app that populates 16 clinical letter templates from live DrChrono patient data (medications, appointments, ICD-10 diagnoses). White-label ready.
+
 
 ---
 
